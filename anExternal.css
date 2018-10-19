@@ -1,0 +1,14 @@
+#img1 {
+    float:left;
+    margin:20px;
+    width:150x;
+    height: 150px;
+}
+#p3 {
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: left;
+}
+#box3{
+    border:3px rgb(129, 17, 35) solid;
+    border-radius: 10px;
+}
