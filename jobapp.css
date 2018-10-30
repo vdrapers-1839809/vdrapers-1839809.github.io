@@ -1,0 +1,33 @@
+.bodyStyle {
+    background-color: grey;
+}
+
+.bodyStyle h2 {
+    font-weight: lighter;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: "chalkduster";
+    border: 2px dashed lightgrey;
+    border-radius: 15px
+}
+
+.bodyStyle legend {
+    color: lightgrey;
+    font-family: "chalkduster";
+    font-weight: bold;
+}
+
+.bodyStyle label {
+    font-family: "courier new";
+}
+
+.bodyStyle th {
+    font-family: "courier new";
+    color: rgb(32, 32, 32);
+}
+
+.bodyStyle legend {
+    border: 2px dashed lightgray;
+    border-radius: 15px;
+}
